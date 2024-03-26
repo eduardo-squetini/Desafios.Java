@@ -9,7 +9,7 @@ Este projeto consiste em uma série de desafios de programação resolvidos usan
 - **Sintaxe Básica**: Desafios para entender a sintaxe básica de Java, incluindo variáveis, tipos de dados e operadores.
 - **Controle de Fluxo**: Desafios para aprender estruturas de controle de fluxo em Java, como loops e condicionais.
 - **Classes e Objetos**: Desafios para introduzir a programação orientada a objetos em Java.
-- 
+  
 ## Tecnologias Utilizadas
 - Java
 - NetBeans
